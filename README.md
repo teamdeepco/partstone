@@ -1,7 +1,7 @@
-# partstone
+# Partstone
 하스스톤 게임을 오마주하여 만든 게임입니다.
 
-### JS convention
+### JS Convention
 ---
 1. var 사용금지
 1. 전역변수 사용금지
