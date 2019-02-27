@@ -1,0 +1,25 @@
+{
+  "name": "partstone",
+  "version": "1.0.0",
+  "description": "하스스톤 게임을 오마주하여 만든 게임입니다.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HTMLhead/partstone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HTMLhead/partstone/issues"
+  },
+  "homepage": "https://github.com/HTMLhead/partstone#readme",
+  "devDependencies": {
+    "eslint": "^5.14.1",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.16.0"
+  }
+}
