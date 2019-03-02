@@ -5,8 +5,8 @@ body {
   margin: 0;
 }
 .container {
-  width: 1000px;
-  height: 700px;
+  width: 800px;
+  height: 500px;
   border: 1px solid gray;
   margin: auto;
   margin-top: 5vh;
