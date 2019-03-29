@@ -1,0 +1,15 @@
+.title {
+  font-size:100px;
+  text-align:center;
+  margin: 30px 0;
+}
+.start-btn{
+  font-size:20px;
+  text-align:center;
+  margin-top:200px;
+}
+.start-btn-text{
+  display:inline-block;
+  padding:8px;
+  border:1px solid #000;
+}
